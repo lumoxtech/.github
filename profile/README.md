@@ -5,6 +5,6 @@ Lumox Technologies is a Canberra software company building websites, custom soft
 ## Explore Lumox
 
 - [Software and web services](https://lumoxtech.com.au/services/)
-- [Selected work](https://lumoxtech.com.au/work/)
+- [Selected work and products](https://lumoxtech.com.au/case-studies/)
 - [Practical software guides](https://lumoxtech.com.au/resources/guides/)
 - [Lumox Technologies](https://lumoxtech.com.au/)
