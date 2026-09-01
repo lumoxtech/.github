@@ -1,5 +1,7 @@
 # Lumox Technologies
 
+**Websites, software and automation—built to work as one.**
+
 Lumox Technologies Pty Ltd is a Canberra, ACT software company building connected websites, custom software and workflow automation for Australian organisations.
 
 ## What we build
@@ -15,4 +17,4 @@ Lumox Technologies Pty Ltd is a Canberra, ACT software company building connecte
 - [Selected work and products](https://lumoxtech.com.au/case-studies/)
 - [Practical software guides](https://lumoxtech.com.au/resources/guides/)
 - [About Lumox Technologies](https://lumoxtech.com.au/about/)
-- [Lumox Technologies website](https://lumoxtech.com.au/)
+- [Contact Lumox](https://lumoxtech.com.au/contact/)
