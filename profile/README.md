@@ -6,6 +6,8 @@ Lumox Technologies Pty Ltd is a Canberra technology company that designs and bui
 
 We take on work that does not fit an off-the-shelf product or needs stronger technical and operational ownership than a conventional build. That includes new operational platforms, complex integrations, customer and staff portals, workflow automation, and websites that must function as dependable business systems.
 
+Current guide: [Legacy system modernisation in Australia](https://lumoxtech.com.au/resources/legacy-system-modernisation-australia/) explains how to choose between retaining, containing, extending and replacing a critical system while preserving required integrations, records and operational control.
+
 ## What we build
 
 - [Custom software development](https://lumoxtech.com.au/services/custom-software-development/)
